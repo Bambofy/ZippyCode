@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZippyCode", "ZippyCode\ZippyCode.csproj", "{CBBA4FD1-3BE6-42AB-B565-CDF8238E28E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZippyCodeServer", "ZippyCodeServer\ZippyCodeServer.csproj", "{E4223C42-5B9D-483A-923D-72449118BC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBA4FD1-3BE6-42AB-B565-CDF8238E28E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBA4FD1-3BE6-42AB-B565-CDF8238E28E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBA4FD1-3BE6-42AB-B565-CDF8238E28E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBA4FD1-3BE6-42AB-B565-CDF8238E28E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4223C42-5B9D-483A-923D-72449118BC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4223C42-5B9D-483A-923D-72449118BC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4223C42-5B9D-483A-923D-72449118BC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4223C42-5B9D-483A-923D-72449118BC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C0159A-28E0-401B-A882-1CD0C8221172}
+	EndGlobalSection
+EndGlobal
