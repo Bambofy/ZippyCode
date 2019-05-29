@@ -1,3 +1,5 @@
+![](show.gif)
+
 To run the program:
 1) Build the zippycodeserver project and copy the bridge/debug/ folder to a new directory.
 2) build the zippycode project and copy the bridge/debug folder to the same directory.
